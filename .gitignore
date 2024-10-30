@@ -1,0 +1,50 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+dist/
+web-build/
+.expo-shared/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.swp
+*.swo
+*.DS_Store
+*.tmp
+*.log
+
+
+# Build artifacts
+ios/build/
+android/app/build/
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# Environment variables
+.env
+
+# typescript
+*.tsbuildinfo
+
